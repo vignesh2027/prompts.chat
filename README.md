@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://prompts.chat">
+  <a href="- [AgentOS 2.0](https://github.com/vignesh2027/Claude-Agentic-Skills2.0-version) — 100+ production-grade Claude Skills with institutional-depth frameworks (Black-Scholes, STRIDE, MEDDPICC, DCF). Finance · Engineering · CEO · Healthcare · Web3. MIT License.
+">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://prompts.chat/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://prompts.chat/logo.svg">
